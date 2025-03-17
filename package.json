@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-tryzub/",
+    "build": "vite build --base=/-js_113_project-tryzub/",
     "preview": "vite preview"
   },
   "devDependencies": {
